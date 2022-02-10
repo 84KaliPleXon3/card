@@ -38,7 +38,7 @@
     "event-stream": "^3.3.1",
     "glob": "^7.0.5",
     "jquery": "^3.5.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.4",
     "replace": "^1.2.0",
     "rimraf": "^2.5.4",
